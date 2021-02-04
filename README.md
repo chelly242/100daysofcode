@@ -1,2 +1,2 @@
 # 100 Days of Code - Log
-This is my #100daysofcode log
+![Image of 100daysofcodelogo] (https://github.com/chelly242/100daysofcode/blob/main/100DaysofCode.jpg)
